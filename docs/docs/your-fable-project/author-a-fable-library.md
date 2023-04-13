@@ -107,4 +107,4 @@ If your package is a library which targets JavaScript and Python you need to wri
 
 ## Testing
 
-It's a good idea to write unit tests for your library to make sure everything works as expected before publishing. The simplest way for that is to use a JS test runner like [Mocha](https://mochajs.org/), as in [this sample](https://github.com/fable-compiler/fable2-samples/tree/master/mocha). Or you can also use a library like [Fable.Mocha](https://github.com/Zaid-Ajaj/Fable.Mocha) containing more tools for Fable projects.
+It's a good idea to write unit tests for your library to make sure everything works as expected before publishing. The simplest way for that is to use a JS test runner like [Mocha](https://mochajs.org/), as in [this sample][this sample](https://github.com/fable-compiler/fable3-samples/tree/main/mocha). Or you can also use a library like [Fable.Mocha](https://github.com/Zaid-Ajaj/Fable.Mocha) containing more tools for Fable projects.
